@@ -1,10 +1,8 @@
-class user {
+class PointTable {
 
-    constructor(pRacersName,  ppoints) {
-       
-        this.RacersName = pRacersName;
-        this.ppoints = ppoints;
-        
+    constructor(pRacersName,  pPoints) {
+        this.racersName = pRacersName;
+        this.points = pPoints;
     }
 
 }

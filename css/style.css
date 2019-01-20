@@ -4,7 +4,6 @@ body{
 }
 
 #raceArea {
-    background-image: url("http://1.bp.blogspot.com/-fPSg1Oubo6A/T18Tqmw4G4I/AAAAAAAAAXI/xvu1WT4ouWo/s1600/track7RoadSidecollider.jpg");
     background-color: #cccccc;
    
 }
@@ -12,5 +11,18 @@ body{
 #image{
 
     transform: rotate(90deg);
+}
+
+
+
+section{
+    width: 600px;
+    border-bottom: 1px solid #999;
+    display: flex;
+    align-items: center;
+}
+section span{
+    display: inline-block;
+    position: relative;
 }
 
