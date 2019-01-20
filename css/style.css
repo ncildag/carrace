@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    flex-direction: row;
+}
+
+#raceArea {
+    background-image: url("http://1.bp.blogspot.com/-fPSg1Oubo6A/T18Tqmw4G4I/AAAAAAAAAXI/xvu1WT4ouWo/s1600/track7RoadSidecollider.jpg");
+    background-color: #cccccc;
+   
+}
+
+#image{
+
+    transform: rotate(90deg);
+}
+
